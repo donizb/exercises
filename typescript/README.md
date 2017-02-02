@@ -1,2 +1,2 @@
-# tsex
+# Typescript
 typescript exercise
