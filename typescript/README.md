@@ -1,0 +1,2 @@
+# tsex
+typescript exercise

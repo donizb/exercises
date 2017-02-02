@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "watch": true,
+        "removeComments": true,
+        "outFile": "build/built.js"
+    },
+    "include": [
+        "./**.ts"
+    ]
+}
