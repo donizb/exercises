@@ -4,7 +4,7 @@
         "sourceMap": true,
         "watch": true,
         "removeComments": true,
-        "outFile": "build/built.js"
+        "outDir": "./dist"
     },
     "include": [
         "./**.ts"
