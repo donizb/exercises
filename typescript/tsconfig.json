@@ -4,9 +4,11 @@
         "sourceMap": true,
         "watch": true,
         "removeComments": true,
-        "outDir": "./dist"
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "experimentalDecorators": true
     },
     "include": [
-        "./**.ts"
+        "./**/*.ts"
     ]
 }

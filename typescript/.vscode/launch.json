@@ -10,7 +10,7 @@
             "name": "Launch Program",
             "program": "${workspaceRoot}/app.ts",
             "cwd": "${workspaceRoot}",
-            "outFiles": ["${workspaceRoot}/build/*.js"],
+            "outFiles": ["${workspaceRoot}/dist/*.js"],
             "sourceMaps": true
         },
         {
