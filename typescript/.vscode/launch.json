@@ -8,9 +8,9 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/app.ts",
+            "program": "${workspaceRoot}/src/decorator/app.ts",
             "cwd": "${workspaceRoot}",
-            "outFiles": ["${workspaceRoot}/dist/*.js"],
+            "outFiles": ["${workspaceRoot}/dist/decorator/*.js"],
             "sourceMaps": true
         },
         {
